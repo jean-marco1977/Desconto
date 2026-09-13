@@ -65,7 +65,7 @@ Antes de começar, você vai precisar ter o **Python 3.x** instalado em sua máq
 
 1. **Clone o repositório** (ou baixe o arquivo `App.py`):
    ```bash
-   git clone https://github.com/jean-marco1977/Desconto
+   git clone https://github.com/jean-marco1977/Desconto/blob/main/Jean_Ag6_DS_I.py
    ```
 
 2. **Navegue até a pasta** do projeto:
