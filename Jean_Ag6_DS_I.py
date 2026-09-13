@@ -1,4 +1,4 @@
-# Declaração de variaveis para o projeto do consumo de energia
+# Declaração de variaveis para o projeto do Desconto de compras
 
 valor_compra = float(input("Digite o valor da compra: "))
 
