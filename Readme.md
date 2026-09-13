@@ -1,4 +1,4 @@
-# ⚡ Desconto de Produtos sem registro
+# 💰 Desconto de Produtos sem registro
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-8da0cb?style=for-the-badge&labelColor=555555&logo=github)
